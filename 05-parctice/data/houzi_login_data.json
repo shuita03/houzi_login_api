@@ -1,0 +1,23 @@
+[
+    {
+        "body":{
+            "username":"15122571345",
+            "password":"123456qwer"
+        },
+        "msg":"success"
+    },
+    {
+        "body":{
+            "username":"15122571345",
+            "password":""
+        },
+        "msg":"请输入密码或短信验证码"
+    },
+    {
+        "body":{
+            "username":"15122571345",
+            "password":"123456qwr"
+        },
+        "msg":"账号或密码错误"
+    }
+]
